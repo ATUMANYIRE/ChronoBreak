@@ -1,0 +1,6 @@
+# rendered frames and previews are large and fully reproducible (python run.py final / animatic)
+output/frames/
+output/previews/
+*.blend1
+__pycache__/
+.pytest_cache/

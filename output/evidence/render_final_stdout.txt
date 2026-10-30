@@ -1,0 +1,29 @@
+00:02.578  blend            | Read blend: "E:\Projects\ChronoBreak\output\chronobreak.blend"
+00:25.422  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0001.png'
+[final] frame 1/576 21.93s
+00:38.125  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0002.png'
+[final] frame 2/576 12.69s
+00:50.797  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0003.png'
+[final] frame 3/576 12.65s
+01:03.968  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0004.png'
+[final] frame 4/576 13.16s
+01:16.109  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0005.png'
+[final] frame 5/576 12.12s
+01:28.578  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0006.png'
+[final] frame 6/576 12.48s
+01:41.281  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0007.png'
+[final] frame 7/576 12.68s
+01:54.062  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0008.png'
+[final] frame 8/576 12.77s
+02:06.625  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0009.png'
+[final] frame 9/576 12.54s
+02:18.937  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0010.png'
+[final] frame 10/576 12.32s
+02:31.203  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0011.png'
+[final] frame 11/576 12.24s
+02:43.984  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0012.png'
+[final] frame 12/576 12.77s
+02:56.437  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0013.png'
+[final] frame 13/576 12.42s
+03:08.968  render           | Saved: 'E:\Projects\ChronoBreak\output\frames\frame_0014.png'
+[final] frame 14/576 12.52s

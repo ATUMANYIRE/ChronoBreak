@@ -1,0 +1,36 @@
+{
+  "video": {
+    "duration_s": 24.0,
+    "codec": "h264",
+    "pix_fmt": "yuv420p",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 24.0,
+    "decoded_frames": 576,
+    "decode_errors": 0
+  },
+  "frames_present": 576,
+  "frames_expected": 576,
+  "checksums": {
+    "output/CHRONOBREAK.mp4": {
+      "sha256": "3e889ad7bdf13a85a1ac786b34da9d797432a495c70139cef44ee0d5bf98f7b2",
+      "bytes": 29379027
+    },
+    "output/chronobreak.blend": {
+      "sha256": "9420341cf596506da789cbb37cbd29fbf6bb9ad04f0973fcc69f76a52c68d3e3",
+      "bytes": 2968256
+    },
+    "output/evidence/blender_wip_screenshot.png": {
+      "sha256": "5b97ce10cee0f29a435f149de4d693fe41f32d1a272671e419791117949696c1",
+      "bytes": 542981
+    },
+    "output/evidence/contact_sheet.png": {
+      "sha256": "5f57bdd4a421a6d2e868edcc844c56a8082c0c081b2ac9279f7ed1e6eff4741e",
+      "bytes": 2435014
+    }
+  },
+  "errors": [],
+  "ok": true
+}

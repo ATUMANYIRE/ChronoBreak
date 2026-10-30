@@ -1,0 +1,64 @@
+{
+  "blender_exe": "C:/Program Files/Blender Foundation/Blender 5.2/blender.exe",
+  "engine": "BLENDER_EEVEE",
+  "blend_file": "output/chronobreak.blend",
+  "presets": {
+    "still": {
+      "resolution": [
+        960,
+        540
+      ],
+      "samples": 16,
+      "motion_blur": false,
+      "volumetrics": true
+    },
+    "animatic": {
+      "resolution": [
+        640,
+        360
+      ],
+      "samples": 4,
+      "motion_blur": false,
+      "volumetrics": false
+    },
+    "benchmark": {
+      "resolution": [
+        1920,
+        1080
+      ],
+      "samples": 48,
+      "motion_blur": true,
+      "volumetrics": true
+    },
+    "final": {
+      "resolution": [
+        1920,
+        1080
+      ],
+      "samples": 24,
+      "motion_blur": true,
+      "volumetrics": true
+    },
+    "benchmark_s24": {
+      "resolution": [
+        1920,
+        1080
+      ],
+      "samples": 24,
+      "motion_blur": true,
+      "volumetrics": true
+    }
+  },
+  "motion_blur_shutter": 0.4,
+  "output": {
+    "previews": "output/previews",
+    "frames": "output/frames",
+    "evidence": "output/evidence",
+    "video": "output/CHRONOBREAK.mp4"
+  },
+  "encode": {
+    "crf": 16,
+    "preset": "slow",
+    "pix_fmt": "yuv420p"
+  }
+}

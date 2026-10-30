@@ -1,0 +1,59 @@
+{
+  "fps": 24,
+  "frame_start": 1,
+  "frame_end": 576,
+  "seed": 2026,
+  "clock": {
+    "radius_inner_mechanism": 98.0,
+    "chapter_inner": 101.0,
+    "chapter_outer": 124.0,
+    "bezel_radius": 129.0,
+    "hand_angle_deg": 60.0,
+    "hour_angle_deg": 205.0,
+    "minute_angle_deg": 300.0,
+    "tick_deg": 6.0
+  },
+  "path": {
+    "comment": "Control points in the second hand's vertical plane: [radius from clock centre, height above dial]",
+    "control_rh": [[4.5, 3.0], [30.0, 40.0], [70.0, -14.0], [112.0, 8.0]]
+  },
+  "timing": {
+    "awaken_start": 0.9,
+    "pulse_start": 3.6,
+    "pulse_arrive": 20.0,
+    "v0": 1.0,
+    "accel_a": 0.081,
+    "accel_p": 2.2,
+    "world_slow_start": 8.5,
+    "world_slow_end": 15.0,
+    "world_rate_min": 0.025,
+    "world_resume_start": 20.2,
+    "world_resume_end": 22.4,
+    "bullet_in": [16.2, 16.8],
+    "bullet_out": [18.0, 18.6],
+    "bullet_rate": 0.05,
+    "reveal_start": 19.6,
+    "reveal_end": 22.6,
+    "tick_time": 22.75,
+    "title_in": [22.9, 23.7]
+  },
+  "distortion": {
+    "sigma": 5.0,
+    "gear_slow_k": 0.92,
+    "fracture_radius": 7.5,
+    "fracture_window": [9.3, 19.7]
+  },
+  "fragments": {
+    "explode_k": 2.4,
+    "field_count": 3400,
+    "field_progress": [0.47, 0.86],
+    "field_radius": [1.8, 24.0],
+    "per_gear_density": 1.6,
+    "max_per_gear": 320
+  },
+  "gears": {
+    "target_count": 120,
+    "max_attempts": 6000,
+    "near_path_fraction": 0.6
+  }
+}
